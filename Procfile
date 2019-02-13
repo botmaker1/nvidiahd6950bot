@@ -1,1 +1,1 @@
-worker: python changmunebot.py
+worker: python nvidiahd6950bot.py
